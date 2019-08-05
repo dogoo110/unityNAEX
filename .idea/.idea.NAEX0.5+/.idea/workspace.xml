@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eaebb73-37da-4295-aecd-125864028f08" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainGame/Frame/MapManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <marker date="1560284247911" expanded="false" signature="7:79" ph="..." />
+                <marker date="1560284247911" expanded="true" signature="120:580" ph="{...}" />
+                <marker date="1560284247911" expanded="true" signature="218:576" ph="{...}" />
+                <marker date="1560284247911" expanded="true" signature="495:568" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Framework/ObjectManager/ObjectPutManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="23" column="44" selection-start-line="16" selection-start-column="16" selection-end-line="31" selection-end-column="81" />
+              <folding>
+                <marker date="1559398231084" expanded="false" signature="6:78" ph="..." />
+                <marker date="1559398231084" expanded="true" signature="125:772" ph="{...}" />
+                <marker date="1559398231084" expanded="true" signature="248:284" ph="{...}" />
+                <marker date="1559398231084" expanded="true" signature="319:583" ph="{...}" />
+                <marker date="1559398231084" expanded="true" signature="492:557" ph="{...}" />
+                <marker date="1559398231084" expanded="true" signature="626:769" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Framework/AnimManager/AnimManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <marker date="1562597614932" expanded="false" signature="6:131" ph="..." />
+                <marker date="1562597614932" expanded="true" signature="133:147" ph="/* 动画机 ... */" />
+                <marker date="1562597614932" expanded="true" signature="188:1035" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="276:312" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="323:498" ph="///  ... " />
+                <marker date="1562597614932" expanded="true" signature="532:775" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="825:1023" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="1054:1677" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="1213:1323" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="1378:1458" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="1490:1536" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="1563:1607" ph="{...}" />
+                <marker date="1562597614932" expanded="true" signature="1633:1675" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/tk2d/Code/Sprites/tk2dSpriteAnimator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3180">
+              <caret line="437" column="51" selection-start-line="437" selection-start-column="44" selection-end-line="437" selection-end-column="51" />
+              <folding>
+                <marker date="1492465265000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1492465265000" expanded="true" signature="105:203" ph="/* Sprite animator. ... */" />
+                <marker date="1492465265000" expanded="true" signature="251:22570" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="344:510" ph="/// Interface option to play the animation automatically when instantiated / game is started. Useful for backgrou ... " />
+                <marker date="1492465265000" expanded="true" signature="641:711" ph="/// Globally pause all animated sprites ... " />
+                <marker date="1492465265000" expanded="true" signature="740:851" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="854:934" ph="/// Get or set pause state on this current sprite ... " />
+                <marker date="1492465265000" expanded="true" signature="954:1091" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="1010:1088" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="1095:1163" ph="/// &lt;see cref=&quot;tk2dSpriteAnimation&quot;/&gt; ... " />
+                <marker date="1492465265000" expanded="true" signature="1200:1257" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="1260:1360" ph="/// The default clip used when Play is called with out any parameters ... " />
+                <marker date="1492465265000" expanded="true" signature="1387:1456" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="1459:1510" ph="/// The default clip ... " />
+                <marker date="1492465265000" expanded="true" signature="1555:1604" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="1608:1664" ph="/// Currently active clip ... " />
+                <marker date="1492465265000" expanded="true" signature="1713:1838" ph="/// Time into the current clip. This is in clip local time (i.e. (int)clipTime = currentFrame) ... " />
+                <marker date="1492465265000" expanded="true" signature="1868:2019" ph="/// This is the frame rate of the current clip. Can be changed dynamicaly, as clipTime is accumulated time in rea ... " />
+                <marker date="1492465265000" expanded="true" signature="2050:2110" ph="/// Previous frame identifier ... " />
+                <marker date="1492465265000" expanded="true" signature="2139:2376" ph="/// Animation completed callback.  ... " />
+                <marker date="1492465265000" expanded="true" signature="2466:2807" ph="/// Animation callback.  ... " />
+                <marker date="1492465265000" expanded="true" signature="2918:2965" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3048:3100" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3072:3097" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3115:3174" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3144:3171" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3219:3305" ph="/// Gets the sprite the animator is currently animating ... " />
+                <marker date="1492465265000" expanded="true" signature="3344:3562" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3352:3559" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3378:3536" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3451:3531" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="3565:3724" ph="/// Adds a tk2dSpriteAnimator as a component to the gameObject passed in, setting up necessary parameters and bui ... " />
+                <marker date="1492465265000" expanded="true" signature="3824:4088" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4215:4526" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4240:4299" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4299:4523" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4395:4487" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4487:4519" ph="{...}" />
+                <marker date="1492465265000" expanded="false" signature="4528:10413" ph="Play" />
+                <marker date="1492465265000" expanded="true" signature="4542:4724" ph="/// Play the current / last played clip. If no clip has been played, the default clip is used. ... " />
+                <marker date="1492465265000" expanded="true" signature="4744:4835" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4775:4810" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="4838:5085" ph="/// Play the specified clip. ... " />
+                <marker date="1492465265000" expanded="true" signature="5116:5158" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="5161:5277" ph="/// Play the specified clip. ... " />
+                <marker date="1492465265000" expanded="true" signature="5326:5359" ph="{...}" />
+                <marker date="1492465265000" expanded="false" signature="5362:6693" ph="PlayFromFrame" />
+                <marker date="1492465265000" expanded="true" signature="5385:5583" ph="/// Play the current / last played clip. If no clip has been played, the default clip is used. ... " />
+                <marker date="1492465265000" expanded="true" signature="5621:5728" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="5652:5687" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="5731:6081" ph="/// Play the specified clip, starting at the frame specified. ... " />
+                <marker date="1492465265000" expanded="true" signature="6132:6190" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="6194:6510" ph="/// Play the clip specified by identifier, starting at the specified frame. ... " />
+                <marker date="1492465265000" expanded="true" signature="6578:6682" ph="{...}" />
+                <marker date="1492465265000" expanded="false" signature="6695:8148" ph="PlayFrom" />
+                <marker date="1492465265000" expanded="true" signature="6713:6911" ph="/// Play the current / last played clip. If no clip has been played, the default clip is used. ... " />
+                <marker date="1492465265000" expanded="true" signature="6954:7064" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="6985:7020" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="7067:7447" ph="/// Play the specified clip, starting &quot;clipStartTime&quot; seconds into the clip. ... " />
+                <marker date="1492465265000" expanded="true" signature="7503:7685" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="7606:7635" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="7635:7682" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="7688:8017" ph="/// Play the clip specified by identifier. ... " />
+                <marker date="1492465265000" expanded="true" signature="8090:8137" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="8151:8605" ph="/// Play the clip specified by identifier. ... " />
+                <marker date="1492465265000" expanded="true" signature="8693:10402" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="8716:10270" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="8885:8946" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="8946:10266" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="9174:9261" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="9415:9681" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="9604:9675" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="9690:10261" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="9702:9786" ph="/* clipStartTime is in seconds ... */" />
+                <marker date="1492465265000" expanded="true" signature="9948:10122" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="10132:10255" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="10277:10399" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="10416:10483" ph="/// Stop the currently playing clip. ... " />
+                <marker date="1492465265000" expanded="true" signature="10503:10536" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="10540:10658" ph="/// Stops the currently playing animation and reset to the first frame in the animation ... " />
+                <marker date="1492465265000" expanded="true" signature="10691:10828" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="10721:10815" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="10832:10912" ph="/// Is the named clip currently active &amp; playing? ... " />
+                <marker date="1492465265000" expanded="true" signature="10948:11023" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="11026:11101" ph="/// Is this clip currently active &amp; playing? ... " />
+                <marker date="1492465265000" expanded="true" signature="11154:11224" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="11227:11352" ph="/// Is a clip currently playing?  ... " />
+                <marker date="1492465265000" expanded="true" signature="11373:11427" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="11430:11534" ph="/// The currently active or playing &lt;see cref=&quot;tk2dSpriteAnimationClip&quot;/&gt; ... " />
+                <marker date="1492465265000" expanded="true" signature="11578:11614" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="11618:11685" ph="/// The current clip time in seconds ... " />
+                <marker date="1492465265000" expanded="true" signature="11715:11810" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="11814:11967" ph="/// Current frame rate of the playing clip. May have been overriden by the user. ... " />
+                <marker date="1492465265000" expanded="true" signature="11989:12128" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12025:12125" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12058:12121" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12131:12241" ph="/// Finds a named clip from the current library. ... " />
+                <marker date="1492465265000" expanded="true" signature="12294:12391" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12319:12340" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12340:12388" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12394:12456" ph="/// The default Fps of the clip ... " />
+                <marker date="1492465265000" expanded="true" signature="12514:12867" ph="/// Resolves an animation clip by name and returns a unique id. ... " />
+                <marker date="1492465265000" expanded="true" signature="12908:12969" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="12972:13356" ph="/// Resolves an animation clip by name and returns a reference to it. ... " />
+                <marker date="1492465265000" expanded="true" signature="13415:13476" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="13480:13597" ph="/// Pause the currently playing clip. Will do nothing if the clip is currently paused. ... " />
+                <marker date="1492465265000" expanded="true" signature="13618:13649" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="13653:13769" ph="/// Resume the currently paused clip. Will do nothing if the clip hasn't been paused. ... " />
+                <marker date="1492465265000" expanded="true" signature="13791:13823" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="13827:14063" ph="/// Sets the current frame. The animation will wrap if the selected frame exceeds the  ... " />
+                <marker date="1492465265000" expanded="true" signature="14100:14135" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14138:14290" ph="/// Sets the current frame. The animation will wrap if the selected frame exceeds the  ... " />
+                <marker date="1492465265000" expanded="true" signature="14346:14651" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14377:14412" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14441:14648" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14598:14644" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14654:14787" ph="/// Returns the current frame of the animation ... " />
+                <marker date="1492465265000" expanded="true" signature="14813:16029" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14821:16026" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="14856:16022" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="15716:15789" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="16032:16299" ph="/// Steps the animation based on the given deltaTime ... " />
+                <marker date="1492465265000" expanded="true" signature="16345:19632" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="16633:19629" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="16890:17062" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="17071:17133" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="17431:18188" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="17560:17790" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="17801:18182" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="17846:18041" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="18052:18175" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="18197:18293" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="18568:18659" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="18664:18914" ph="/* This is likely to be buggy - this needs to be rewritten storing prevClipTime and comparing that rather than pr ... */" />
+                <marker date="1492465265000" expanded="true" signature="19198:19504" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="19513:19609" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="19685:19762" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="19790:19873" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="19876:20052" ph="/* Warps the current active frame to the local time (i.e. float frame number) specified. ... */" />
+                <marker date="1492465265000" expanded="true" signature="20120:20468" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="20333:20438" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="20378:20434" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="20507:20689" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="20544:20686" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="20747:21161" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="20864:20880" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21018:21158" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21093:21154" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21192:21302" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21252:21299" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21339:21380" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21470:21522" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21569:22561" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21579:22558" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="21616:22506" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="22348:22372" ph="{...}" />
+                <marker date="1492465265000" expanded="true" signature="22372:22495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/test3.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <marker date="1562226527337" expanded="false" signature="6:78" ph="..." />
+                <marker date="1562226527337" expanded="true" signature="115:300" ph="{...}" />
+                <marker date="1562226527337" expanded="true" signature="165:236" ph="{...}" />
+                <marker date="1562226527337" expanded="true" signature="291:298" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Framework/ObjectManager/Distance2D.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <marker date="1563251880290" expanded="false" signature="6:78" ph="..." />
+                <marker date="1563251880290" expanded="true" signature="119:734" ph="{...}" />
+                <marker date="1563251880290" expanded="true" signature="544:610" ph="{...}" />
+                <marker date="1563251880290" expanded="true" signature="663:670" ph="{...}" />
+                <marker date="1563251880290" expanded="true" signature="725:732" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Framework/AnimManager/AnimPe.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <marker date="1561896959497" expanded="false" signature="6:78" ph="..." />
+                <marker date="1561896959497" expanded="true" signature="115:402" ph="{...}" />
+                <marker date="1561896959497" expanded="true" signature="173:286" ph="{...}" />
+                <marker date="1561896959497" expanded="true" signature="328:396" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/test.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1559378910302" expanded="false" signature="6:78" ph="..." />
+                <marker date="1559378910302" expanded="true" signature="113:401" ph="{...}" />
+                <marker date="1559378910302" expanded="true" signature="185:320" ph="{...}" />
+                <marker date="1559378910302" expanded="true" signature="378:399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>library</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TK2DROOT/tk2dTileMap_demo/Demo1/Scripts/tk2dTileMapDemoPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Framework/ObjectManager/Distance2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Framework/AnimManager/AnimManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/tk2d/Code/Sprites/tk2dSpriteAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Framework/AnimManager/AnimPe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainGame/Frame/MapManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/test3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Framework/ObjectManager/ObjectPutManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TK2DROOT/tk2dTileMap_demo/Demo1/Scripts/tk2dTileMapDemoPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Framework/AnimManager/AnimPe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Framework/AnimManager/AnimManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/test3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Framework/ObjectManager/Distance2D.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="227" />
+    <option name="y" value="288" />
+    <option name="width" value="1385" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eaebb73-37da-4295-aecd-125864028f08" name="Default Changelist" comment="" />
+      <created>1559536945751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559536945751</updated>
+      <workItem from="1559536951797" duration="287000" />
+      <workItem from="1559800592598" duration="74000" />
+      <workItem from="1559817652961" duration="882000" />
+      <workItem from="1559823472628" duration="3111000" />
+      <workItem from="1560766676751" duration="3000" />
+      <workItem from="1561270811833" duration="928000" />
+      <workItem from="1561873716152" duration="1765000" />
+      <workItem from="1561875542926" duration="70000" />
+      <workItem from="1561875650443" duration="2132000" />
+      <workItem from="1561883435112" duration="96000" />
+      <workItem from="1561884367224" duration="48000" />
+      <workItem from="1561896846152" duration="117000" />
+      <workItem from="1561896991934" duration="1512000" />
+      <workItem from="1562226517262" duration="611000" />
+      <workItem from="1562594471900" duration="144000" />
+      <workItem from="1562598265280" duration="35000" />
+      <workItem from="1563251439770" duration="1034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12849000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="227" y="288" width="1385" height="825" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31698114" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="16" visible="true" weight="0.3293944" />
+      <window_info anchor="bottom" id="运行" order="17" />
+      <window_info anchor="bottom" id="调试" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/TK2DROOT/tk2dTileMap_demo/Demo1/Scripts/tk2dTileMapDemoPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1561271989840" expanded="false" signature="6:44" ph="..." />
+            <marker date="1561271989840" expanded="true" signature="97:3699" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="469:1483" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="577:675" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1303:1355" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1355:1422" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1501:2526" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1650:1688" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1711:2453" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1886:2036" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="1940:2031" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="2053:2449" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="2152:2315" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="2321:2429" ph="/* The actual applying of force is deferred to the next FixedUpdate for predictable ... */" />
+            <marker date="1561271989840" expanded="true" signature="2549:3323" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="2586:3320" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="2832:3033" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="3138:3295" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="3362:3469" ph="{...}" />
+            <marker date="1561271989840" expanded="true" signature="3583:3690" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainGame/Frame/MapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1560284247911" expanded="false" signature="7:79" ph="..." />
+            <marker date="1560284247911" expanded="true" signature="120:580" ph="{...}" />
+            <marker date="1560284247911" expanded="true" signature="218:576" ph="{...}" />
+            <marker date="1560284247911" expanded="true" signature="495:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Framework/ObjectManager/ObjectPutManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="44" selection-start-line="16" selection-start-column="16" selection-end-line="31" selection-end-column="81" />
+          <folding>
+            <marker date="1559398231084" expanded="false" signature="6:78" ph="..." />
+            <marker date="1559398231084" expanded="true" signature="125:772" ph="{...}" />
+            <marker date="1559398231084" expanded="true" signature="248:284" ph="{...}" />
+            <marker date="1559398231084" expanded="true" signature="319:583" ph="{...}" />
+            <marker date="1559398231084" expanded="true" signature="492:557" ph="{...}" />
+            <marker date="1559398231084" expanded="true" signature="626:769" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/tk2d/Code/Sprites/tk2dSpriteAnimator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="437" column="51" selection-start-line="437" selection-start-column="44" selection-end-line="437" selection-end-column="51" />
+          <folding>
+            <marker date="1492465265000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1492465265000" expanded="true" signature="105:203" ph="/* Sprite animator. ... */" />
+            <marker date="1492465265000" expanded="true" signature="251:22570" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="344:510" ph="/// Interface option to play the animation automatically when instantiated / game is started. Useful for backgrou ... " />
+            <marker date="1492465265000" expanded="true" signature="641:711" ph="/// Globally pause all animated sprites ... " />
+            <marker date="1492465265000" expanded="true" signature="740:851" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="854:934" ph="/// Get or set pause state on this current sprite ... " />
+            <marker date="1492465265000" expanded="true" signature="954:1091" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="1010:1088" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="1095:1163" ph="/// &lt;see cref=&quot;tk2dSpriteAnimation&quot;/&gt; ... " />
+            <marker date="1492465265000" expanded="true" signature="1200:1257" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="1260:1360" ph="/// The default clip used when Play is called with out any parameters ... " />
+            <marker date="1492465265000" expanded="true" signature="1387:1456" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="1459:1510" ph="/// The default clip ... " />
+            <marker date="1492465265000" expanded="true" signature="1555:1604" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="1608:1664" ph="/// Currently active clip ... " />
+            <marker date="1492465265000" expanded="true" signature="1713:1838" ph="/// Time into the current clip. This is in clip local time (i.e. (int)clipTime = currentFrame) ... " />
+            <marker date="1492465265000" expanded="true" signature="1868:2019" ph="/// This is the frame rate of the current clip. Can be changed dynamicaly, as clipTime is accumulated time in rea ... " />
+            <marker date="1492465265000" expanded="true" signature="2050:2110" ph="/// Previous frame identifier ... " />
+            <marker date="1492465265000" expanded="true" signature="2139:2376" ph="/// Animation completed callback.  ... " />
+            <marker date="1492465265000" expanded="true" signature="2466:2807" ph="/// Animation callback.  ... " />
+            <marker date="1492465265000" expanded="true" signature="2918:2965" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3048:3100" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3072:3097" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3115:3174" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3144:3171" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3219:3305" ph="/// Gets the sprite the animator is currently animating ... " />
+            <marker date="1492465265000" expanded="true" signature="3344:3562" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3352:3559" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3378:3536" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3451:3531" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="3565:3724" ph="/// Adds a tk2dSpriteAnimator as a component to the gameObject passed in, setting up necessary parameters and bui ... " />
+            <marker date="1492465265000" expanded="true" signature="3824:4088" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4215:4526" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4240:4299" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4299:4523" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4395:4487" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4487:4519" ph="{...}" />
+            <marker date="1492465265000" expanded="false" signature="4528:10413" ph="Play" />
+            <marker date="1492465265000" expanded="true" signature="4542:4724" ph="/// Play the current / last played clip. If no clip has been played, the default clip is used. ... " />
+            <marker date="1492465265000" expanded="true" signature="4744:4835" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4775:4810" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="4838:5085" ph="/// Play the specified clip. ... " />
+            <marker date="1492465265000" expanded="true" signature="5116:5158" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="5161:5277" ph="/// Play the specified clip. ... " />
+            <marker date="1492465265000" expanded="true" signature="5326:5359" ph="{...}" />
+            <marker date="1492465265000" expanded="false" signature="5362:6693" ph="PlayFromFrame" />
+            <marker date="1492465265000" expanded="true" signature="5385:5583" ph="/// Play the current / last played clip. If no clip has been played, the default clip is used. ... " />
+            <marker date="1492465265000" expanded="true" signature="5621:5728" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="5652:5687" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="5731:6081" ph="/// Play the specified clip, starting at the frame specified. ... " />
+            <marker date="1492465265000" expanded="true" signature="6132:6190" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="6194:6510" ph="/// Play the clip specified by identifier, starting at the specified frame. ... " />
+            <marker date="1492465265000" expanded="true" signature="6578:6682" ph="{...}" />
+            <marker date="1492465265000" expanded="false" signature="6695:8148" ph="PlayFrom" />
+            <marker date="1492465265000" expanded="true" signature="6713:6911" ph="/// Play the current / last played clip. If no clip has been played, the default clip is used. ... " />
+            <marker date="1492465265000" expanded="true" signature="6954:7064" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="6985:7020" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="7067:7447" ph="/// Play the specified clip, starting &quot;clipStartTime&quot; seconds into the clip. ... " />
+            <marker date="1492465265000" expanded="true" signature="7503:7685" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="7606:7635" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="7635:7682" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="7688:8017" ph="/// Play the clip specified by identifier. ... " />
+            <marker date="1492465265000" expanded="true" signature="8090:8137" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="8151:8605" ph="/// Play the clip specified by identifier. ... " />
+            <marker date="1492465265000" expanded="true" signature="8693:10402" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="8716:10270" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="8885:8946" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="8946:10266" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="9174:9261" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="9415:9681" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="9604:9675" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="9690:10261" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="9702:9786" ph="/* clipStartTime is in seconds ... */" />
+            <marker date="1492465265000" expanded="true" signature="9948:10122" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="10132:10255" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="10277:10399" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="10416:10483" ph="/// Stop the currently playing clip. ... " />
+            <marker date="1492465265000" expanded="true" signature="10503:10536" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="10540:10658" ph="/// Stops the currently playing animation and reset to the first frame in the animation ... " />
+            <marker date="1492465265000" expanded="true" signature="10691:10828" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="10721:10815" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="10832:10912" ph="/// Is the named clip currently active &amp; playing? ... " />
+            <marker date="1492465265000" expanded="true" signature="10948:11023" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="11026:11101" ph="/// Is this clip currently active &amp; playing? ... " />
+            <marker date="1492465265000" expanded="true" signature="11154:11224" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="11227:11352" ph="/// Is a clip currently playing?  ... " />
+            <marker date="1492465265000" expanded="true" signature="11373:11427" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="11430:11534" ph="/// The currently active or playing &lt;see cref=&quot;tk2dSpriteAnimationClip&quot;/&gt; ... " />
+            <marker date="1492465265000" expanded="true" signature="11578:11614" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="11618:11685" ph="/// The current clip time in seconds ... " />
+            <marker date="1492465265000" expanded="true" signature="11715:11810" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="11814:11967" ph="/// Current frame rate of the playing clip. May have been overriden by the user. ... " />
+            <marker date="1492465265000" expanded="true" signature="11989:12128" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12025:12125" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12058:12121" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12131:12241" ph="/// Finds a named clip from the current library. ... " />
+            <marker date="1492465265000" expanded="true" signature="12294:12391" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12319:12340" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12340:12388" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12394:12456" ph="/// The default Fps of the clip ... " />
+            <marker date="1492465265000" expanded="true" signature="12514:12867" ph="/// Resolves an animation clip by name and returns a unique id. ... " />
+            <marker date="1492465265000" expanded="true" signature="12908:12969" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="12972:13356" ph="/// Resolves an animation clip by name and returns a reference to it. ... " />
+            <marker date="1492465265000" expanded="true" signature="13415:13476" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="13480:13597" ph="/// Pause the currently playing clip. Will do nothing if the clip is currently paused. ... " />
+            <marker date="1492465265000" expanded="true" signature="13618:13649" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="13653:13769" ph="/// Resume the currently paused clip. Will do nothing if the clip hasn't been paused. ... " />
+            <marker date="1492465265000" expanded="true" signature="13791:13823" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="13827:14063" ph="/// Sets the current frame. The animation will wrap if the selected frame exceeds the  ... " />
+            <marker date="1492465265000" expanded="true" signature="14100:14135" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14138:14290" ph="/// Sets the current frame. The animation will wrap if the selected frame exceeds the  ... " />
+            <marker date="1492465265000" expanded="true" signature="14346:14651" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14377:14412" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14441:14648" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14598:14644" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14654:14787" ph="/// Returns the current frame of the animation ... " />
+            <marker date="1492465265000" expanded="true" signature="14813:16029" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14821:16026" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="14856:16022" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="15716:15789" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="16032:16299" ph="/// Steps the animation based on the given deltaTime ... " />
+            <marker date="1492465265000" expanded="true" signature="16345:19632" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="16633:19629" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="16890:17062" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="17071:17133" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="17431:18188" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="17560:17790" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="17801:18182" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="17846:18041" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="18052:18175" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="18197:18293" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="18568:18659" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="18664:18914" ph="/* This is likely to be buggy - this needs to be rewritten storing prevClipTime and comparing that rather than pr ... */" />
+            <marker date="1492465265000" expanded="true" signature="19198:19504" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="19513:19609" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="19685:19762" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="19790:19873" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="19876:20052" ph="/* Warps the current active frame to the local time (i.e. float frame number) specified. ... */" />
+            <marker date="1492465265000" expanded="true" signature="20120:20468" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="20333:20438" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="20378:20434" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="20507:20689" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="20544:20686" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="20747:21161" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="20864:20880" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21018:21158" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21093:21154" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21192:21302" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21252:21299" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21339:21380" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21470:21522" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21569:22561" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21579:22558" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="21616:22506" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="22348:22372" ph="{...}" />
+            <marker date="1492465265000" expanded="true" signature="22372:22495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Framework/AnimManager/AnimPe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <marker date="1561896959497" expanded="false" signature="6:78" ph="..." />
+            <marker date="1561896959497" expanded="true" signature="115:402" ph="{...}" />
+            <marker date="1561896959497" expanded="true" signature="173:286" ph="{...}" />
+            <marker date="1561896959497" expanded="true" signature="328:396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1559378910302" expanded="false" signature="6:78" ph="..." />
+            <marker date="1559378910302" expanded="true" signature="113:401" ph="{...}" />
+            <marker date="1559378910302" expanded="true" signature="185:320" ph="{...}" />
+            <marker date="1559378910302" expanded="true" signature="378:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Framework/AnimManager/AnimManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <marker date="1562597614932" expanded="false" signature="6:131" ph="..." />
+            <marker date="1562597614932" expanded="true" signature="133:147" ph="/* 动画机 ... */" />
+            <marker date="1562597614932" expanded="true" signature="188:1035" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="276:312" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="323:498" ph="///  ... " />
+            <marker date="1562597614932" expanded="true" signature="532:775" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="825:1023" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="1054:1677" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="1213:1323" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="1378:1458" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="1490:1536" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="1563:1607" ph="{...}" />
+            <marker date="1562597614932" expanded="true" signature="1633:1675" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/test3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1562226527337" expanded="false" signature="6:78" ph="..." />
+            <marker date="1562226527337" expanded="true" signature="115:300" ph="{...}" />
+            <marker date="1562226527337" expanded="true" signature="165:236" ph="{...}" />
+            <marker date="1562226527337" expanded="true" signature="291:298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Framework/ObjectManager/Distance2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <marker date="1563251880290" expanded="false" signature="6:78" ph="..." />
+            <marker date="1563251880290" expanded="true" signature="119:734" ph="{...}" />
+            <marker date="1563251880290" expanded="true" signature="544:610" ph="{...}" />
+            <marker date="1563251880290" expanded="true" signature="663:670" ph="{...}" />
+            <marker date="1563251880290" expanded="true" signature="725:732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

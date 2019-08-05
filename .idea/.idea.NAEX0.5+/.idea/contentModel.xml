@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dogoo\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dogoo\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_NAEX0.5+.-1253185087.00" t="ExcludeRecursive" />
+    <e p="E:\unity\unity\NAEX0.5+" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\EasyTouchBundle" t="Include">
+        <e p="EasyTouch" t="Include">
+          <e p="_Documentation" t="Include">
+            <e p="How to migrate from EasyTouch 4.X.txt" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="4.X" t="Include">
+              <e p="AdvancedExamples" t="Include">
+                <e p="AutoSelect" t="Include">
+                  <e p="MultiLayerTouch.cs" t="Include" />
+                  <e p="MultiLayerUI.cs" t="Include" />
+                </e>
+                <e p="MultiCamera" t="Include">
+                  <e p="MultiCameraTouch.cs" t="Include" />
+                  <e p="MultiCameraUI.cs" t="Include" />
+                </e>
+              </e>
+              <e p="GameExemple" t="Include">
+                <e p="RTSExample" t="Include">
+                  <e p="CubeSelect.cs" t="Include" />
+                  <e p="RTSCamera.cs" t="Include" />
+                </e>
+                <e p="RunBall" t="Include">
+                  <e p="Ball.cs" t="Include" />
+                  <e p="BallRunPlayer.cs" t="Include" />
+                  <e p="ThirdPersonCamera.cs" t="Include" />
+                </e>
+              </e>
+              <e p="LoadExamples.cs" t="Include" />
+              <e p="SimpleExamples" t="Include">
+                <e p="MultiFinger" t="Include">
+                  <e p="FingerTouch.cs" t="Include" />
+                  <e p="MutliFingersScreenTouch.cs" t="Include" />
+                </e>
+                <e p="OneFinger" t="Include">
+                  <e p="DoubleTapMe.cs" t="Include" />
+                  <e p="DragMe.cs" t="Include" />
+                  <e p="LongTapMe.cs" t="Include" />
+                  <e p="Swipe.cs" t="Include" />
+                  <e p="TapMe.cs" t="Include" />
+                  <e p="TouchMe.cs" t="Include" />
+                </e>
+                <e p="TwoFingers" t="Include">
+                  <e p="PinchMe.cs" t="Include" />
+                  <e p="TooglePickMethodUI.cs" t="Include" />
+                  <e p="TwistMe.cs" t="Include" />
+                  <e p="TwoDoubleTapMe.cs" t="Include" />
+                  <e p="TwoDragMe.cs" t="Include" />
+                  <e p="TwoLongTapMe.cs" t="Include" />
+                  <e p="TwoSwipe.cs" t="Include" />
+                  <e p="TwoTapMe.cs" t="Include" />
+                  <e p="TwoTouchMe.cs" t="Include" />
+                </e>
+              </e>
+              <e p="UnityUI" t="Include">
+                <e p="UICompatibility" t="Include">
+                  <e p="ETWindow.cs" t="Include" />
+                  <e p="GlobalEasyTouchEvent.cs" t="Include" />
+                  <e p="UICompatibility.cs" t="Include" />
+                  <e p="UIWindow.cs" t="Include" />
+                </e>
+                <e p="UITwistPinch" t="Include">
+                  <e p="UIDrag.cs" t="Include" />
+                  <e p="UIPinch.cs" t="Include" />
+                  <e p="UITwist.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="5.X new features" t="Include">
+              <e p="Script" t="Include">
+                <e p="RTS_NewSyntaxe.cs" t="Include" />
+                <e p="SimpleActionExample.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="How to migrate from EasyTouch 4.X.txt" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="Components" t="Include">
+              <e p="EasyTouchTrigger.cs" t="Include" />
+              <e p="QuickBase.cs" t="Include" />
+              <e p="QuickDrag.cs" t="Include" />
+              <e p="QuickEnterOverExist.cs" t="Include" />
+              <e p="QuickLongTap.cs" t="Include" />
+              <e p="QuickPinch.cs" t="Include" />
+              <e p="QuickSwipe.cs" t="Include" />
+              <e p="QuickTap.cs" t="Include" />
+              <e p="QuickTouch.cs" t="Include" />
+              <e p="QuickTwist.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="EasytouchHierachyCallBack.cs" t="Include" />
+              <e p="EasyTouchInspector.cs" t="Include" />
+              <e p="EasyTouchMenu.cs" t="Include" />
+              <e p="EasyTouchTriggerInspector.cs" t="Include" />
+              <e p="EasyTouchWelcomeScreen.cs" t="Include" />
+              <e p="HTGuiTools.cs" t="Include" />
+              <e p="QuickDragInspector.cs" t="Include" />
+              <e p="QuickEnterExitInspector.cs" t="Include" />
+              <e p="QuickLongTapInspector.cs" t="Include" />
+              <e p="QuickPinchInspector.cs" t="Include" />
+              <e p="QuickSwipeInspector.cs" t="Include" />
+              <e p="QuickTapInspector.cs" t="Include" />
+              <e p="QuickTouchInspector.cs" t="Include" />
+              <e p="QuickTwistInspector.cs" t="Include" />
+            </e>
+            <e p="Engine" t="Include">
+              <e p="BaseFinger.cs" t="Include" />
+              <e p="EasyTouch.cs" t="Include" />
+              <e p="EasyTouchInput.cs" t="Include" />
+              <e p="ECamera.cs" t="Include" />
+              <e p="Finger.cs" t="Include" />
+              <e p="Gesture.cs" t="Include" />
+              <e p="TwoFingerGesture.cs" t="Include" />
+            </e>
+          </e>
+          <e p="RealseNotes.txt" t="Include" />
+        </e>
+        <e p="EasyTouchControls" t="Include">
+          <e p="Component" t="Include">
+            <e p="ETCSetDirectActionTransform.cs" t="Include" />
+          </e>
+          <e p="Documentation" t="Include">
+            <e p="Version 2.0.txt" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="_Medias" t="Include">
+              <e p="SliderText.cs" t="Include" />
+            </e>
+            <e p="Version 1.X" t="Include">
+              <e p="Button-Event-Input" t="Include">
+                <e p="ButtonInputUI.cs" t="Include" />
+                <e p="ButtonUIEvent.cs" t="Include" />
+              </e>
+              <e p="ControlEventInput" t="Include">
+                <e p="ControlUIEvent.cs" t="Include" />
+                <e p="ControlUIInput.cs" t="Include" />
+              </e>
+              <e p="DPadClassicalTime" t="Include">
+                <e p="DPadParameterUI.cs" t="Include" />
+              </e>
+              <e p="FPSExample" t="Include">
+                <e p="FPSPlayerControl.cs" t="Include" />
+                <e p="ImpactEffect.cs" t="Include" />
+              </e>
+              <e p="JoystickParameter" t="Include">
+                <e p="AxisXUi.cs" t="Include" />
+              </e>
+              <e p="LoadLevelScript.cs" t="Include" />
+              <e p="TouchPad-Event-Input" t="Include">
+                <e p="TouchPadUIEvent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Version 2.X_New Features" t="Include">
+              <e p="Script" t="Include">
+                <e p="CharacterAnimation.cs" t="Include" />
+                <e p="CharacterAnimationDungeon.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Issues in button behavior (MAC).txt" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="ComponentExtensions.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ETCAreaInspector.cs" t="Include" />
+              <e p="ETCAxisInspector.cs" t="Include" />
+              <e p="ETCButtonInspector.cs" t="Include" />
+              <e p="ETCDPadInspector.cs" t="Include" />
+              <e p="ETCGuiTools.cs" t="Include" />
+              <e p="ETCJoystickInspector.cs" t="Include" />
+              <e p="ETCMenu.cs" t="Include" />
+              <e p="ETCTouchPadInspector.cs" t="Include" />
+            </e>
+            <e p="ETCArea.cs" t="Include" />
+            <e p="ETCAxis.cs" t="Include" />
+            <e p="ETCBase.cs" t="Include" />
+            <e p="ETCButton.cs" t="Include" />
+            <e p="ETCDPad.cs" t="Include" />
+            <e p="ETCInput.cs" t="Include" />
+            <e p="ETCJoystick.cs" t="Include" />
+            <e p="ETCTouchPad.cs" t="Include" />
+          </e>
+          <e p="ReleaseNotes.txt" t="Include" />
+        </e>
+        <e p="Readme.txt" t="Include" />
+      </e>
+      <e p="Assets\Framework" t="Include">
+        <e p="AnimManager" t="Include">
+          <e p="AnimManager.cs" t="Include" />
+          <e p="AnimPe.cs" t="Include" />
+        </e>
+        <e p="AudioManager" t="Include">
+          <e p="AudioManager.cs" t="Include" />
+        </e>
+        <e p="ObjectManager" t="Include">
+          <e p="Distance2D.cs" t="Include" />
+          <e p="ObjectManager.cs" t="Include" />
+          <e p="ObjectPutManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Plugins" t="Include">
+        <e p="tk2d" t="Include">
+          <e p="Code" t="Include">
+            <e p="Camera" t="Include">
+              <e p="tk2dCamera.cs" t="Include" />
+              <e p="tk2dCameraAnchor.cs" t="Include" />
+              <e p="tk2dCameraUtil.cs" t="Include" />
+            </e>
+            <e p="Fonts" t="Include">
+              <e p="tk2dFont.cs" t="Include" />
+              <e p="tk2dFontData.cs" t="Include" />
+              <e p="tk2dTextGeomGen.cs" t="Include" />
+              <e p="tk2dTextMesh.cs" t="Include" />
+            </e>
+            <e p="Gui" t="Include">
+              <e p="tk2dButton.cs" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="tk2dResource.cs" t="Include" />
+              <e p="tk2dSystem.cs" t="Include" />
+              <e p="tk2dUpdateManager.cs" t="Include" />
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="tk2dAnimatedSprite.cs" t="Include" />
+              <e p="tk2dBaseSprite.cs" t="Include" />
+              <e p="tk2dClippedSprite.cs" t="Include" />
+              <e p="tk2dEditorSpriteDataUnloader.cs" t="Include" />
+              <e p="tk2dPixelPerfectHelper.cs" t="Include" />
+              <e p="tk2dRuntimeSpriteCollection.cs" t="Include" />
+              <e p="tk2dSlicedSprite.cs" t="Include" />
+              <e p="tk2dSprite.cs" t="Include" />
+              <e p="tk2dSpriteAnimation.cs" t="Include" />
+              <e p="tk2dSpriteAnimator.cs" t="Include" />
+              <e p="tk2dSpriteAttachPoint.cs" t="Include" />
+              <e p="tk2dSpriteCollection.cs" t="Include" />
+              <e p="tk2dSpriteCollectionData.cs" t="Include" />
+              <e p="tk2dSpriteCollectionInterfaces.cs" t="Include" />
+              <e p="tk2dSpriteCollectionSize.cs" t="Include" />
+              <e p="tk2dSpriteFromTexture.cs" t="Include" />
+              <e p="tk2dSpriteGeomGen.cs" t="Include" />
+              <e p="tk2dStaticSpriteBatcher.cs" t="Include" />
+              <e p="tk2dTiledSprite.cs" t="Include" />
+            </e>
+            <e p="tk2dUtil.cs" t="Include" />
+          </e>
+        </e>
+        <e p="tk2dTileMap" t="Include">
+          <e p="Code" t="Include">
+            <e p="tk2dTileMap.cs" t="Include" />
+            <e p="tk2dTileMapBuilderUtil.cs" t="Include" />
+            <e p="tk2dTileMapChunks.cs" t="Include" />
+            <e p="tk2dTileMapColliderBuilder.cs" t="Include" />
+            <e p="tk2dTileMapColliderBuilder2D.cs" t="Include" />
+            <e p="tk2dTileMapData.cs" t="Include" />
+            <e p="tk2dTileMapMeshBuilder.cs" t="Include" />
+          </e>
+        </e>
+        <e p="tk2dUI" t="Include">
+          <e p="Code" t="Include">
+            <e p="Controls" t="Include">
+              <e p="tk2dUIBaseItemControl.cs" t="Include" />
+              <e p="tk2dUIDragItem.cs" t="Include" />
+              <e p="tk2dUIDropDownItem.cs" t="Include" />
+              <e p="tk2dUIDropDownMenu.cs" t="Include" />
+              <e p="tk2dUIHoverItem.cs" t="Include" />
+              <e p="tk2dUIMultiStateToggleButton.cs" t="Include" />
+              <e p="tk2dUIProgressBar.cs" t="Include" />
+              <e p="tk2dUIScrollableArea.cs" t="Include" />
+              <e p="tk2dUIScrollbar.cs" t="Include" />
+              <e p="tk2dUISoundItem.cs" t="Include" />
+              <e p="tk2dUITextInput.cs" t="Include" />
+              <e p="tk2dUIToggleButton.cs" t="Include" />
+              <e p="tk2dUIToggleButtonGroup.cs" t="Include" />
+              <e p="tk2dUIToggleControl.cs" t="Include" />
+              <e p="tk2dUITweenItem.cs" t="Include" />
+              <e p="tk2dUIUpDownButton.cs" t="Include" />
+              <e p="tk2dUIUpDownHoverButton.cs" t="Include" />
+            </e>
+            <e p="Core" t="Include">
+              <e p="tk2dUIAudioManager.cs" t="Include" />
+              <e p="tk2dUICamera.cs" t="Include" />
+              <e p="tk2dUIItem.cs" t="Include" />
+              <e p="tk2dUILayout.cs" t="Include" />
+              <e p="tk2dUILayoutContainer.cs" t="Include" />
+              <e p="tk2dUILayoutContainerSizer.cs" t="Include" />
+              <e p="tk2dUIManager.cs" t="Include" />
+              <e p="tk2dUIMask.cs" t="Include" />
+              <e p="tk2dUISpriteAnimator.cs" t="Include" />
+              <e p="tk2dUITime.cs" t="Include" />
+              <e p="tk2dUITouch.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets\Scripts" t="Include">
+        <e p="MainGame" t="Include">
+          <e p="Frame" t="Include">
+            <e p="MapManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\test.cs" t="Include" />
+      <e p="Assets\test3.cs" t="Include" />
+      <e p="Assets\TK2DROOT" t="Include">
+        <e p="tk2d" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Camera" t="Include">
+              <e p="tk2dCameraAnchorEditor.cs" t="Include" />
+              <e p="tk2dCameraEditor.cs" t="Include" />
+            </e>
+            <e p="EditorUtility.shader" t="Include" />
+            <e p="Fonts" t="Include">
+              <e p="tk2dFontBuilder.cs" t="Include" />
+              <e p="tk2dFontEditor.cs" t="Include" />
+              <e p="tk2dTextMeshEditor.cs" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="tk2dResourceEditor.cs" t="Include" />
+              <e p="tk2dSystemUtility.cs" t="Include" />
+            </e>
+            <e p="Shared" t="Include">
+              <e p="tk2dNaturalComparer.cs" t="Include" />
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="Atlas" t="Include">
+                <e p="tk2dAtlasBuilder.cs" t="Include" />
+                <e p="tk2dAtlasRect.cs" t="Include" />
+                <e p="tk2dMaxRectsBinPack.cs" t="Include" />
+              </e>
+              <e p="SpriteAnimationEditor" t="Include">
+                <e p="tk2dSpriteAnimationAnimOp.cs" t="Include" />
+                <e p="tk2dSpriteAnimationClipEditor.cs" t="Include" />
+                <e p="tk2dSpriteAnimationClipTimelineEditor.cs" t="Include" />
+                <e p="tk2dSpriteAnimationEditor.cs" t="Include" />
+                <e p="tk2dSpriteAnimationEditorPopup.cs" t="Include" />
+                <e p="tk2dSpriteAnimationPreview.cs" t="Include" />
+              </e>
+              <e p="SpriteCollectionEditor" t="Include">
+                <e p="tk2dSpriteCollectionEditor.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorFontView.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorPopup.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorProxy.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorSettingsView.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorSpriteSheetView.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorSpriteView.cs" t="Include" />
+                <e p="tk2dSpriteCollectionEditorTextureView.cs" t="Include" />
+              </e>
+              <e p="SpritePicker" t="Include">
+                <e p="tk2dSpritePickerPopup.cs" t="Include" />
+              </e>
+              <e p="TextureProcessing" t="Include">
+                <e p="tk2dFloydSteinbergDithering.cs" t="Include" />
+              </e>
+              <e p="tk2dAnimatedSpriteEditor.cs" t="Include" />
+              <e p="tk2dClippedSpriteEditor.cs" t="Include" />
+              <e p="tk2dSlicedSpriteEditor.cs" t="Include" />
+              <e p="tk2dSpriteAnimatorEditor.cs" t="Include" />
+              <e p="tk2dSpriteCollectionBuilder.cs" t="Include" />
+              <e p="tk2dSpriteCollectionBuilderDeprecated.cs" t="Include" />
+              <e p="tk2dSpriteCollectionBuilderUtil.cs" t="Include" />
+              <e p="tk2dSpriteCollectionLinkBuilder.cs" t="Include" />
+              <e p="tk2dSpriteCollectionPlatformBuilder.cs" t="Include" />
+              <e p="tk2dSpriteCollectionTextureWatcher.cs" t="Include" />
+              <e p="tk2dSpriteEditor.cs" t="Include" />
+              <e p="tk2dSpriteThumbnailCache.cs" t="Include" />
+              <e p="tk2dStaticSpriteBatcherEditor.cs" t="Include" />
+              <e p="tk2dTiledSpriteEditor.cs" t="Include" />
+              <e p="Triangulator" t="Include">
+                <e p="tk2dSpriteFromTextureEditor.cs" t="Include" />
+                <e p="tk2dTriangulator.cs" t="Include" />
+              </e>
+            </e>
+            <e p="tk2dAutoRebuild.cs" t="Include" />
+            <e p="tk2dEditorSkin.cs" t="Include" />
+            <e p="tk2dEditorUtility.cs" t="Include" />
+            <e p="tk2dGrid.cs" t="Include" />
+            <e p="tk2dGuiUtility.cs" t="Include" />
+            <e p="tk2dIndex.cs" t="Include" />
+            <e p="tk2dJSSupport.cs" t="Include" />
+            <e p="tk2dMenu.cs" t="Include" />
+            <e p="tk2dPreferencesEditor.cs" t="Include" />
+            <e p="tk2dScaleUtility.cs" t="Include" />
+            <e p="tk2dSceneHelper.cs" t="Include" />
+            <e p="tk2dSpriteGuiUtility.cs" t="Include" />
+            <e p="tk2dUndo.cs" t="Include" />
+            <e p="tk2dUpdateWindow.cs" t="Include" />
+          </e>
+          <e p="goodies" t="Include">
+            <e p="TexturePacker" t="Include">
+              <e p="Exporter" t="Include">
+                <e p="2dtoolkit" t="Include">
+                  <e p="exporter.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="AdditiveVertexColor.shader" t="Include" />
+            <e p="Blend2TexVertexColor.shader" t="Include" />
+            <e p="CutoutVertexColor.shader" t="Include" />
+            <e p="goodies" t="Include">
+              <e p="PackedTextMesh.shader" t="Include" />
+            </e>
+            <e p="LitBlendVertexColor.shader" t="Include" />
+            <e p="LitCutoutVertexColor.shader" t="Include" />
+            <e p="LitPremulVertexColor.shader" t="Include" />
+            <e p="LitSolidVertexColor.shader" t="Include" />
+            <e p="PremulVertexColor.shader" t="Include" />
+            <e p="resources" t="Include">
+              <e p="BlendVertexColor.shader" t="Include" />
+            </e>
+            <e p="SolidVertexColor.shader" t="Include" />
+          </e>
+        </e>
+        <e p="tk2d_demo" t="Include">
+          <e p="Credits.txt" t="Include" />
+          <e p="demobmfont" t="Include">
+            <e p="test.fnt" t="Include" />
+          </e>
+          <e p="democameradata" t="Include">
+            <e p="source" t="Include">
+              <e p="democamerafont.fnt" t="Include" />
+            </e>
+          </e>
+          <e p="tk2dDemoAnimController.cs" t="Include" />
+          <e p="tk2dDemoButtonController.cs" t="Include" />
+          <e p="tk2dDemoCameraController.cs" t="Include" />
+          <e p="tk2dDemoReloadController.cs" t="Include" />
+          <e p="tk2dDemoRuntimeSpriteController.cs" t="Include" />
+        </e>
+        <e p="tk2dTileMap" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Importer" t="Include">
+              <e p="tk2dTileMapImporter.cs" t="Include" />
+            </e>
+            <e p="tk2dTileMapBrushBuilder.cs" t="Include" />
+            <e p="tk2dTileMapBrushRenderer.cs" t="Include" />
+            <e p="tk2dTileMapEditor.cs" t="Include" />
+            <e p="tk2dTileMapEditorData.cs" t="Include" />
+            <e p="tk2dTileMapEditorDataInspector.cs" t="Include" />
+            <e p="tk2dTileMapSceneGUI.cs" t="Include" />
+            <e p="tk2dTileMapScratchpad.cs" t="Include" />
+            <e p="tk2dTileMapToolbar.cs" t="Include" />
+            <e p="tk2dTileMapUtility.cs" t="Include" />
+          </e>
+        </e>
+        <e p="tk2dTileMap_demo" t="Include">
+          <e p="Demo1" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="tk2dTileMapDemoCoin.cs" t="Include" />
+              <e p="tk2dTileMapDemoFollowCam.cs" t="Include" />
+              <e p="tk2dTileMapDemoPlayer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="tk2dUI" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Controls" t="Include">
+              <e p="tk2dUIBaseItemControlEditor.cs" t="Include" />
+              <e p="tk2dUIControlsHelperEditor.cs" t="Include" />
+              <e p="tk2dUICustomEditorGUILayout.cs" t="Include" />
+              <e p="tk2dUIDragItemEditor.cs" t="Include" />
+              <e p="tk2dUIDropDownMenuEditor.cs" t="Include" />
+              <e p="tk2dUIHoverItemEditor.cs" t="Include" />
+              <e p="tk2dUIMultiStateToggleButtonEditor.cs" t="Include" />
+              <e p="tk2dUIProgressBarEditor.cs" t="Include" />
+              <e p="tk2dUIScrollableAreaEditor.cs" t="Include" />
+              <e p="tk2dUIScrollbarEditor.cs" t="Include" />
+              <e p="tk2dUISoundItemEditor.cs" t="Include" />
+              <e p="tk2dUITextInputEditor.cs" t="Include" />
+              <e p="tk2dUIToggleButtonEditor.cs" t="Include" />
+              <e p="tk2dUIToggleButtonGroupEditor.cs" t="Include" />
+              <e p="tk2dUIToggleControlEditor.cs" t="Include" />
+              <e p="tk2dUITweenItemEditor.cs" t="Include" />
+              <e p="tk2dUIUpDownButtonEditor.cs" t="Include" />
+              <e p="tk2dUIUpDownHoverButtonEditor.cs" t="Include" />
+            </e>
+            <e p="Core" t="Include">
+              <e p="tk2dUIItemBoundsHelper.cs" t="Include" />
+              <e p="tk2dUIItemEditor.cs" t="Include" />
+              <e p="tk2dUILayoutContainerEditor.cs" t="Include" />
+              <e p="tk2dUILayoutContainerSizerEditor.cs" t="Include" />
+              <e p="tk2dUILayoutEditor.cs" t="Include" />
+              <e p="tk2dUIMaskEditor.cs" t="Include" />
+              <e p="tk2dUIMethodBindingHelper.cs" t="Include" />
+              <e p="tk2dUISpriteAnimatorEditor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="DepthMask.shader" t="Include" />
+            <e p="DepthMaskSolid.shader" t="Include" />
+          </e>
+        </e>
+        <e p="tk2dUI_demo" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Dark" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="Nunito16.fnt" t="Include" />
+                <e p="Nunito24.fnt" t="Include" />
+                <e p="Nunito32.fnt" t="Include" />
+              </e>
+            </e>
+            <e p="Font" t="Include">
+              <e p="OldSansBlack" t="Include">
+                <e p="OldSansBlack.fnt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="tk2dUIBaseDemoController.cs" t="Include" />
+          <e p="tk2dUIDemo2Controller.cs" t="Include" />
+          <e p="tk2dUIDemo3Controller.cs" t="Include" />
+          <e p="tk2dUIDemo5Controller.cs" t="Include" />
+          <e p="tk2dUIDemo6Controller.cs" t="Include" />
+          <e p="tk2dUIDemoController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="NAEX0.5+.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
